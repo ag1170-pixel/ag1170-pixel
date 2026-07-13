@@ -44,6 +44,7 @@ I build backends that hold up in production. As a B.Tech AI & ML student at SRM 
 </div>
 
 - 🚗 **[Automobiles MapsOfIndia](https://automobiles2.mapsofindia.com/)** — Car & bike discovery platform serving 2,700+ cars and 1,700+ bikes with specs, city-wise pricing, and side-by-side comparison. Django · PostgreSQL · Redis
+- 🇮🇳 **[My India Panel — MapsOfIndia](https://www.mapsofindia.com/my-india/)** — Built and shipped the live "My India" panel page during my internship at Mapping Digiworld, serving curated information about India to production traffic
 - 🎨 **[Art Gallery Search](https://staging.artgallerysearch.com.au/)** — Production gallery discovery platform for a US client with geospatial search, JWT auth, and advanced filtering. Django · DRF · React · Leaflet.js
 - 🏥 **[MediConnect](https://medi-connect-dusky.vercel.app/)** — Hackathon-winning smart healthcare system with RFID patient tracking and digital health records, cutting manual data entry by 40%
 - 🔌 **AdiLock** — Smart phone charging station: ESP32 firmware, IR sensors, and a cloud backend, architected end to end as team lead
